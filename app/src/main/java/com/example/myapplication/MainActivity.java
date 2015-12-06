@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity  {
     EditText EW1;
     EditText EW2;
     TextView TW;
-    int first, second,res;
+    int first, second, res;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
